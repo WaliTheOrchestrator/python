@@ -1,0 +1,1 @@
+#Equality Check: Input two passwords and print True if they are exactly the same

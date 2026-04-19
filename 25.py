@@ -1,0 +1,1 @@
+#Exam Permission: Input has_admit_card (True/False) and is_on_time (True/False). Print True only if both are True
